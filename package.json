@@ -1,0 +1,25 @@
+{
+  "name": "movies-application-express-mangodb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sachi4496/Movies-Application-Express-mangoDB.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sachi4496/Movies-Application-Express-mangoDB/issues"
+  },
+  "homepage": "https://github.com/Sachi4496/Movies-Application-Express-mangoDB#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^6.0.13"
+  }
+}
